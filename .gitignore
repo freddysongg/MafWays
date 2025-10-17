@@ -1,10 +1,7 @@
 src/__pycache__/
 .DS_Store
 images_array.npy
-<<<<<<< HEAD
-labels_array.npy
-=======
 labels_array.npy
 X_test.npy
 y_test.npy
->>>>>>> f1dc8175bfdafdbde458e6398cacc2f6dc70bf50
+extracted_images/
